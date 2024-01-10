@@ -1,0 +1,13 @@
+name: gajeroll_lints
+description: Dart & Flutter lint rules used by Gajeroll
+repository: https://github.com/gajeroll/gajeroll_lints
+version: 0.0.1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter_lints: ^3.0.1
+
+topics:
+  - lint
